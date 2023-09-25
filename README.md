@@ -1,4 +1,4 @@
-[![](https://img.shields.io/badge/Tool-Processing-4DCBEB)](https://processing.org/)
+[![](https://img.shields.io/badge/Gaming_Platform-RPG_Maker_MV-4DCBEB)](https://www.rpgmakerweb.com/)
 # starryskygame
 
 ![125431695601725_ pic](https://github.com/jiruochong/starryskygame/assets/142318719/02270226-0c0d-48c4-8020-416431b4edeb)
