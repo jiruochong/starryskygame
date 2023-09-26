@@ -17,3 +17,4 @@ The most important purpose of the game istherefore a journey to find the phenome
 In my work, the territory depicted is vast.From microscopic atoms to huge stars, from a planetary view of the sun to a cosmic view of galaxies,from collisions of positive and negative matter to supernova explosions, I present it all through programming. This is then inserted into the games I make, where the events are triggered by the characters and then played out. These videos are an animation of the moment before the treasure chest is triggered,and they appear just before the'crystal ball"is obtained. As the animations shown inside the"crystal ball", they representthe rules of the universe, atoms, celestialbodies, energy,light spectrum, etc. The gamecan only be cleared if a certain number of them are collected.
 
 ![image](https://github.com/jiruochong/starryskygame/assets/142318719/d2802a46-4f7c-413c-8bb3-c6de63dc84c5)
+**THE END** :blush: 
